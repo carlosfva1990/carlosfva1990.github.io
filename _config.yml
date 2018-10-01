@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Sanson 
+email: carlosfva1990@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ Esta es una pagina personal donde voy mostrando mis trabajos.
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://sanson04.epizy.com" # the base hostname & protocol for your site
+twitter_username: sanson_04
+github_username:  carlosfva1990
+
+# Build settings
+markdown: kramdown
