@@ -27,11 +27,34 @@
                 queue: false
             }
         });
+        var $container2 = $('.portfolio-items2');
+        $container.isotope({
+            filter: '*',
+            animationOptions: {
+                duration: 750,
+                easing: 'linear',
+                queue: false
+            }
+        });
         $('.cat a').click(function() {
             $('.cat .active').removeClass('active');
             $(this).addClass('active');
             var selector = $(this).attr('data-filter');
             $container.isotope({
+                filter: selector,
+                animationOptions: {
+                    duration: 750,
+                    easing: 'linear',
+                    queue: false
+                }
+            });
+            return false;
+        });
+        $('.cat2 a').click(function() {
+            $('.cat2 .active').removeClass('active');
+            $(this).addClass('active');
+            var selector = $(this).attr('data-filter');
+            $container2.isotope({
                 filter: selector,
                 animationOptions: {
                     duration: 750,
