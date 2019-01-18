@@ -285,10 +285,11 @@
         </div>
 		<?php
 		$dir = glob(' img/portfolio2/{*.jpg,*.png}',GLOB_BRACE);
+		print_r($dir);
 		foreach ($dir as $key=> $value)
 		{
 		?>
-        <div class="col-sm-6 col-md-4 pinup">
+        <div class="col-sm-6 col-md-4 adipiscing">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="<?php echo $value; ?>" title="<?php echo $value; ?>" data-lightbox-gallery="gallery1">
 			
