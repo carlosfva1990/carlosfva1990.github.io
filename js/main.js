@@ -28,7 +28,7 @@
             }
         });
         var $container2 = $('.portfolio-items2');
-        $container.isotope({
+        $container2.isotope({
             filter: '*',
             animationOptions: {
                 duration: 750,

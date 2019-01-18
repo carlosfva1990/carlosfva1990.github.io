@@ -114,184 +114,36 @@
     </div>
     <div class="row">
 	<div class="portfolio-items">
-<!--
-        <div class="col-sm-6 col-md-4 ballet">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_6616.JPG" title="Ballet" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Ballet</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_6616_Small.JPG" class="img-responsive" alt="Ballet"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 ballet">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_6615.JPG" title="Ballet" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Ballet</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_6615_Small.JPG" class="img-responsive" alt="Ballet"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 ballet">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_6613.JPG" title="Ballet" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Ballet</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_6613_Small.JPG" class="img-responsive" alt="Ballet"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 pinup">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_3193.JPG" title="Pin Up" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Pin Up</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_3193_Small.JPG" class="img-responsive" alt="Pin Up"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 pinup">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_3212.JPG" title="Pin Up" data-lightbox-gallery="gallery1"> 
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Pin Up</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_3212_Small.JPG" class="img-responsive" alt="Pin Up"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 pinup">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_3189.JPG" title="Pin Up" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Pin Up</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_3189_Small.JPG" class="img-responsive" alt="Pin Up"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 pinup">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_3148.JPG" title="Pin Up" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Pin Up</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_3148_Small.JPG" class="img-responsive" alt="Pin Up"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 pinup">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_3155.JPG" title="Pin Up" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Pin Up</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_3155_Small.JPG" class="img-responsive" alt="Pin Up"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 pinup">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_3025.JPG" title="Pin Up" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Pin Up</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_3025_Small.JPG" class="img-responsive" alt="Pin Up"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 pinup">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_2895.JPG" title="Pin Up" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Pin Up</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_2895_Small.JPG" class="img-responsive" alt="Pin Up"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 pinup">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_2943.JPG" title="Pin Up" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Pin Up</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_2943_Small.JPG" class="img-responsive" alt="Pin Up"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 pinup">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_2859.JPG" title="Pin Up" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Pin Up</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_2859_Small.JPG" class="img-responsive" alt="Pin Up"> </a> </div>
-          </div>
-        </div>
-        <div class="col-sm-6 col-md-4 pinup">
-          <div class="portfolio-item">
-            <div class="hover-bg"> <a href="img/portfolio2/DSC_3014.JPG" title="Pin Up" data-lightbox-gallery="gallery1">
-              <div class="hover-text">
-                <div class="overlay-caption">
-                  <div class="overlay-content">
-                    <h4>Pin Up</h4>
-                  </div>
-                </div>
-              </div>
-              <img src="img/portfolio2/DSC_3014_Small.JPG" class="img-responsive" alt="Pin Up"> </a> </div>
-          </div>
-        </div>
-		-->
 		<?php
-		$dir = glob(' img/portfolio2/{*.jpg,*.png}',GLOB_BRACE);
-		print_r($dir);
+		$dir = glob("img/portfolio2/ballet/{*.JPG}",GLOB_BRACE );
 		foreach ($dir as $value)
 		{
 		?>
-        <div class="col-sm-6 col-md-4 adipiscing">
+        <div class="col-sm-6 col-md-4 ballet">
+          <div class="portfolio-item">
+            <div class="hover-bg"> <a href="<?php echo $value; ?>" title="<?php echo $value; ?>" data-lightbox-gallery="gallery1">
+			
+              <div class="hover-text">
+                <div class="overlay-caption">
+                  <div class="overlay-content">
+                    <h4>Ballet</h4>
+                  </div>
+                </div>
+              </div>
+              <img src="<?php echo $value; ?>" class="img-responsive" alt="<?php echo $value; ?>"> </a> 
+			 </div>
+          </div>
+        </div>
+		<?php
+		}
+		?>
+		
+		<?php
+		$dir = glob("img/portfolio2/pinup/{*.JPG}",GLOB_BRACE );
+		foreach ($dir as $value)
+		{
+		?>
+        <div class="col-sm-6 col-md-4 pinup">
           <div class="portfolio-item">
             <div class="hover-bg"> <a href="<?php echo $value; ?>" title="<?php echo $value; ?>" data-lightbox-gallery="gallery1">
 			
