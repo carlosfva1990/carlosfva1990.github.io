@@ -121,7 +121,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: -moz-linear-gradient(left, rgba(255,255,255,0.5) 0%, rgba(213,218,222,0) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, rgba(255,255,255,0.5) 0%, rgba(213,218,222,0) 100%); /* Chrome10-25,Safari5.1-6 */
 	background: linear-gradient(to right, rgba(255,255,255,0.5) 0%, rgba(213,218,222,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', endColorstr='#00d5dade', GradientType=1 ); /* IE6-9 */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80ffffff', endColorstr='#0ed5dade', GradientType=1 ); /* IE6-9 */
 }
 .intro .fa {
 	font-size: 94px;
